@@ -1,0 +1,10 @@
+= S
+
+[width="90%",cols="^,2m",frame="topbot",options="header,footer"]
+|======================
+|Column 1 |Column 2
+|1        |Item 1
+|2        |Item 2
+|3        |Item 3
+|6        |Three items
+|======================

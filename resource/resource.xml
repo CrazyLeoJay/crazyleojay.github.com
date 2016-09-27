@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resource>
+    <item>
+        <name>Autcad</name>
+        <content>二维制图软件</content>
+        <download>
+            <type>百度云</type>
+            <url>dasfe</url>
+            <password>fajief</password>
+        </download>
+    </item>
+    <item>
+
+    </item>
+</resource>
