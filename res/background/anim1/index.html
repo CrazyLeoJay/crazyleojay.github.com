@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML5 Canvas炫酷3D背景动画代码 - 站长素材</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="jquery.js"></script>
+    <script src="vector.js"></script>
+    <script>
+        $(function () {
+            // 初始化 传入dom id
+            var victor = new Victor("container", "output");
+            var theme = [
+                ["#002c4a", "#005584"],
+                ["#35ac03", "#3f4303"],
+                ["#ac0908", "#cd5726"],
+                ["#18bbff", "#00486b"]
+            ]
+            $(".color li").each(function (index, val) {
+                var color = theme[index];
+                $(this).mouseover(function () {
+                    victor(color).set();
+                })
+            });
+        });
+    </script>
+</head>
+<body>
+<div id="container">
+    <div id="output"></div>
+</div>
+
+<ul class="color">
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+
+</body>
+</html>
