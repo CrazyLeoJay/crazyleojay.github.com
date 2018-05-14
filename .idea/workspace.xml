@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e01c65e1-1754-442b-b4c0-d9d1cb43aa47" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/config.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/background/anim1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/background/anim1/init.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/background/anim1/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/background/anim1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/background/anim1/vector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/background/line/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/background/line/init.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/background/line/line.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/background/line/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/forweb.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/host.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/bootstrap4/js/popper.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bmob-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/res/js/bmob-min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bmob.js" beforeDir="false" afterPath="$PROJECT_DIR$/res/js/bmob.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bmobSocketIo-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/res/js/bmobSocketIo-min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bmobSocketIo.js" beforeDir="false" afterPath="$PROJECT_DIR$/res/js/bmobSocketIo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagehome/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/model.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/read.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/resource.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/blog/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -211,12 +168,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525684495595</updated>
       <workItem from="1525684499957" duration="177000" />
-      <workItem from="1525684726363" duration="18502000" />
+      <workItem from="1525684726363" duration="18725000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18679000" />
+    <option name="totallyTimeSpent" value="18902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -456,7 +413,7 @@
     <entry file="file://$PROJECT_DIR$/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
         </state>
       </provider>
     </entry>
